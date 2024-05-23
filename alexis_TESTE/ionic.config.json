@@ -1,0 +1,7 @@
+{
+  "name": "alexis_TESTE",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
